@@ -1,10 +1,10 @@
 # demo-repo
 demo basic git commands 
 
-## Subheader
+## Subheader!
 
-watch tutorial in youtube
-## Another subheader
+watch tutorial in youtube, but here are some anothes changes from mater, tackle this change hard to merge
+## Another subheader!
 
 %%%% Nuevo requerimiento desde main
 New subheader here ok 
