@@ -8,7 +8,7 @@ watch tutorial in youtube
 ## Local Development
 
 1. Open index.html in your browser.
-2. Have a fun.git 
 
+2. Have a fun.git 
 ## Change for next commit 
 3. Get ready for new events 
