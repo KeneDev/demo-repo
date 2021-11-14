@@ -17,10 +17,9 @@ Let the cat out of the bed.
 ## Change for next commit 
 3. Get ready for new events 
 
-<<<<<<< HEAD
 4. this change is part of master branch
-=======
 5. New Steps here from quick-test branch
 
+8. This is another change from feature branch quick-test
 
->>>>>>> 373f56b (new changes added from my branch quick test)
+
